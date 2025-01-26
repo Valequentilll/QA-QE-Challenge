@@ -1,0 +1,15 @@
+
+
+# Sifre Bilgisi Yanlis Girilerek Logine Tiklanir
+* "2" saniye bekle
+* Username Alaninini Doldur
+* Password Alaninini Yanlis Doldur
+* Login Butonuna Tikla
+* "5" saniye bekle
+
+# Sifre Bilgisi Dogru Girilerek Logine Tiklanir
+* "2" saniye bekle
+* Username Alaninini Doldur
+* Password Alaninini Dogru Doldur
+* Login Butonuna Tikla
+* "5" saniye bekle

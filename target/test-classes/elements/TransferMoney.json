@@ -1,0 +1,5 @@
+{
+  "key": "Username",
+  "Value": "//input[@placeholder='Username']",
+  "Type": "xpath"
+}
